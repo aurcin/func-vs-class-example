@@ -1,0 +1,29 @@
+.container {
+	padding: 80px 20px;
+	text-align: center;
+}
+
+.title {
+	color: #567079;
+}
+
+.count {
+	font-size: 2rem;
+	color: #567079;
+}
+
+.btn-counter-increase {
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 1.25rem;
+	cursor: pointer;
+	background-color: #567079;
+	color: white;
+	border-color: #91aab3;
+}
+
+.btn-counter-increase:hover {
+	background-color: #91aab3;
+	color: #567079;
+	border-color: #91aab3;
+}
