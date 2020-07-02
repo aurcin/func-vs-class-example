@@ -7,6 +7,7 @@
 .container {
 	margin: 20px 50px;
 	padding: 80px 20px;
+
 	text-align: center;
 }
 
@@ -21,16 +22,19 @@
 
 .btn-counter-increase {
 	padding: 10px;
-	border-radius: 5px;
+
 	font-size: 1.25rem;
+	color: white;
+
 	cursor: pointer;
 	background-color: #567079;
-	color: white;
 	border-color: #91aab3;
+	border-radius: 5px;
 }
 
 .btn-counter-increase:hover {
-	background-color: #91aab3;
 	color: #567079;
+
+	background-color: #91aab3;
 	border-color: #91aab3;
 }
